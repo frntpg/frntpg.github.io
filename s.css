@@ -7,6 +7,10 @@ div#container {
 	margin: auto;
 }
 
+div.header {
+	font-family: Georgia;
+}
+
 div.content {
 	
 }
